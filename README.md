@@ -7,7 +7,8 @@ Aly hasn't been completely finished yet, and there are lots of things to be impr
 Every key components of Aly comes from others' open source procect (except ChatGPT). The UI comes from [whisper Web UI](https://github.com/AndreMarkert/whisper-webui); The conversion from voice to text comes from the [OpenAI whisper](https://github.com/openai/whisper); The Part of ChatGPT uses the api provided by OpenAI; The final part, conversion from text back to voice comes from [coqui-TTS](https://github.com/coqui-ai/TTS).
 
 
-![example](.\\pics\\eg.png "example")
+![example](https://github.com/ChevalierDeSangreal/Aly/blob/main/pics/eg.png "example")
+
 
 To see the performance, you may listen to the output.wav file.
 
